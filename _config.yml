@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Vidur Mithal"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "My personal website."
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
