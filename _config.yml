@@ -85,10 +85,10 @@ author:
   bio              : "My personal website."
   location         : "India"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : vidurmithal@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
