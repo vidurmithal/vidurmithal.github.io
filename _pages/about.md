@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a graduate student in climate science at Universität Hamburg. My academic interests include understanding drivers of climate extremes and modelling their impacts on natural and societal systems. I am also interested in data visualization, science communication, and supporting collaborative and open science communities such as [Pangeo](https://pangeo.io). 
+Hello! I am a graduate student in climate science at the [School of Integrated Climate System Science](https://sicss.de) at Universität Hamburg, and a research assistant at the [Helmholtz Centre for Environmental Research](https://www.ufz.de/). I am interested in climate extremes, both in terms of understanding how they will evolve under climate change, and how they create complex and interconnected risks for nature and society. Besides this, I am also passionate about data visualization, science communication, and collaborative and open science communities such as [Pangeo](https://pangeo.io). 
 
 This website is currently under development...
